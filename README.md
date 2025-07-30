@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Pietro De Angeli
 
-<!--
-**pietroDeAngeli/pietroDeAngeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Artificial Intelligence at Università di Trento
+🧠 Passionate about Speech Recognition, NLP, and Deep Learning  
+💻 I work with PyTorch, Transformers, and NVIDIA NeMo  
+📂 Projects:  
+- 🔊 [Diarization and Fine-tuning for ASR](https://github.com/pietroDeAngeli/Diarization_and_Finetuning-NVIDIA_Nemo)  
+- 📰 [Fake News Detection](https://github.com/pietroDeAngeli/FakeNews_detection_project)  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on  
+- 🎭 [DeepFake Detection Tool](https://github.com/pietroDeAngeli/DeepFake-Detection)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me: pietro.deangeli02@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/pietrodeangeli)
