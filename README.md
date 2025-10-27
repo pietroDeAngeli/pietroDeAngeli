@@ -5,9 +5,7 @@
 💻 I work with PyTorch, Transformers, and NVIDIA NeMo  
 📂 Projects:  
 - 🔊 [Diarization and Fine-tuning for ASR](https://github.com/pietroDeAngeli/Diarization_and_Finetuning-NVIDIA_Nemo)  
-- 📰 [Fake News Detection](https://github.com/pietroDeAngeli/FakeNews_detection_project)  
-
-🔭 I’m currently working on  
+- 📰 [Fake News Detection](https://github.com/pietroDeAngeli/FakeNews_detection_project)
 - 🎭 [DeepFake Detection Tool](https://github.com/pietroDeAngeli/DeepFake-Detection)
 
 📫 Contact me: pietro.deangeli02@gmail.com  
