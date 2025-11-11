@@ -2,7 +2,7 @@
   <h1>Hi, I'm Pietro De Angeli</h1>
 </div>
 
-🎓 Master's student in Artificial Intelligence at Università di Trento
+🎓 Master's student in Artificial Intelligence at Università di Trento  
 🧠 Passionate about LLMs, NLP, and Machine Learning  
 💻 I work with PyTorch, Transformers, and NVIDIA NeMo  
 📂 Projects:
