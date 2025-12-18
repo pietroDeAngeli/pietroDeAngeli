@@ -11,6 +11,8 @@
 - 📰 [Fake News Detection](https://github.com/pietroDeAngeli/FakeNews_detection_project)
 - 🎭 [DeepFake Detection Tool](https://github.com/pietroDeAngeli/DeepFake-Detection)
 
+Check out my personal portfolio [here](https://pietrodeangeli.github.io/)!
+
 <div align="center">
   <h2>📫 Contact me</h2>
   <a href="https://www.linkedin.com/in/pietrodeangeli">
