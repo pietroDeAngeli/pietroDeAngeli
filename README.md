@@ -6,10 +6,12 @@
 🧠 Passionate about LLMs, NLP, and Machine Learning  
 💻 I work with PyTorch, Transformers, and NVIDIA NeMo  
 📂 Projects:
-- 📝 [Diarization with NVIDIA Nemo](https://github.com/pietroDeAngeli/Diarization_NVIDIA_Nemo)
-- 🔊 [ASR - Finetuning](https://github.com/pietroDeAngeli/ASR-Fine_tuning-NVIDIA-Nemo)
-- 📰 [Fake News Detection](https://github.com/pietroDeAngeli/FakeNews_detection_project)
-- 🎭 [DeepFake Detection Tool](https://github.com/pietroDeAngeli/DeepFake-Detection)
+- [AI Travel Planner](https://github.com/pietroDeAngeli/AI_travel_planner)
+- [Layered Vectorization](https://github.com/pietroDeAngeli/LayeredVectorization)
+- [Diarization with NVIDIA Nemo](https://github.com/pietroDeAngeli/Diarization_NVIDIA_Nemo)
+- [ASR - Finetuning](https://github.com/pietroDeAngeli/ASR-Fine_tuning-NVIDIA-Nemo)
+- [DeepFake Detection](https://github.com/pietroDeAngeli/DeepFake-Detection)
+
 
 Check out my personal portfolio [here](https://pietrodeangeli.github.io/)!
 
